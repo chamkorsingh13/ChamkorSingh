@@ -1,0 +1,3 @@
+git remote add origin https://github.com/chamkorsingh13/ChamkorSingh.git
+git branch -M main
+git push -u origin main /Chamkorheer13
